@@ -1,0 +1,52 @@
+{
+  "name": "Mega Ltd. Test Syed Fazli",
+  "version": "1.1",
+  "title": "Mega Ltd. Test Syed Sana ul Haq Fazli",
+  "description": "File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images.",
+  "keywords": [
+    "jquery",
+    "file",
+    "upload",
+    "widget",
+    "multiple",
+    "selection",
+    "bootstrap"
+  ],
+  "homepage": "http://localhost/megatest/",
+  "author": {
+    "name": "Syed Sana ul Haq Fazli",
+    "url": "http://syedfazli.com"
+  },
+  "maintainers": [
+    {
+      "name": "Syed Sana ul Haq Fazli",
+      "url": "http://syedfazli.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syedfazli/Megatest.git"
+  },
+  
+  
+  "dependencies": {
+    "jquery": ">=1.6",
+    "blueimp-tmpl": ">=2.5.4",
+    "blueimp-load-image": ">=1.13.0",
+    "blueimp-canvas-to-blob": ">=2.1.1"
+  },
+  "main": [
+    "js/jquery.fileupload.js"
+  ],
+  "ignore": [
+    "/*.*",
+    "/cors",
+    "css/jquery-ui-demo-ie8.css",
+    "css/jquery-ui-demo.css",
+    "css/style.css",
+    "js/app.js",
+    "js/main.js",
+    "server",
+    
+  ]
+}

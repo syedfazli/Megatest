@@ -1,0 +1,44 @@
+{
+  "name": "Mega Ltd. Test Syed Fazli",
+  "version": "1.1",
+  "title": "Mega Ltd. Test Syed Sana ul Haq Fazli",
+  "description": "File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images.",
+  "keywords": [
+    "jquery",
+    "file",
+    "upload",
+    "widget",
+    "multiple",
+    "selection",
+    "bootstrap"
+  ],
+  "homepage": "http://localhost/megatest/",
+  "author": {
+    "name": "Syed Sana ul Haq Fazli",
+    "url": "http://www.syedfazli.com"
+  },
+  "maintainers": [
+    {
+      "name": "Syed Sana ul Haq Fazli",
+      "url": "http://www.syedfazli.com"
+    }
+  ],
+  "optionalDependencies": {
+    "blueimp-canvas-to-blob": "3.5.0",
+    "blueimp-load-image": "2.12.2",
+    "blueimp-tmpl": "3.6.0"
+  },
+  "devDependencies": {
+    "bower-json": "0.8.1",
+    "jshint": "2.9.3"
+  },
+  "scripts": {
+    "bower-version-update": "./bower-version-update.js",
+    "lint": "jshint *.js js/*.js js/cors/*.js",
+    "test": "npm run lint",
+    "preversion": "npm test",
+    "version": "npm run bower-version-update && git add bower.json",
+    "postversion": "git push --tags origin master && npm publish"
+  },
+  "main": "js/jquery.fileupload.js"
+}
