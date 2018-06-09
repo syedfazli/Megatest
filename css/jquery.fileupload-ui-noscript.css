@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/*
+ * MEGA web Development Test
+ *
+ * Presented By: Syed Sana ul Haq Fazli
+ * http://www.syedfazli.com
+ *
+ * Source Help From:
+ * https://github.com/blueimp/jQuery-File-Upload
+ */
+
+
+.fileinput-button i,
+.fileupload-buttonbar .delete,
+.fileupload-buttonbar .toggle {
+  display: none;
+}
