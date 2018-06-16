@@ -8,7 +8,7 @@
 </ul>
 
 <h3>Installation:</h3>
-Download the whole Module. and Unzip it and name the folder as <strong>megatest</strong>. save this folder in the Server folder (e.g. /www/html/).After that run the system on your browser like: 
+Download the whole Module. Unzip it and name the folder as <strong>megatest</strong>. save this folder in the Server folder (e.g. /www/html/).After that run the system on your browser like: 
 <p>http://localhost/megatest/index.html</p>
 
 <h3>User Manual</h3>
