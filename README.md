@@ -1,6 +1,6 @@
 # Megatest
 <ul>
-	<li>MEGA Senior Web Developer Job Test</li>
+	<li>MEGA Ltd. Senior Web Developer Job Test</li>
 	<li>Presented By: Syed Sana ul Haq Fazli<br />
 	http://www.syedfazli.com</li>
  	<li>Source Help From:<br />
