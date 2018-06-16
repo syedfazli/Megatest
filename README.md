@@ -1,12 +1,11 @@
 # Megatest
 Mega Ltd. Test for Syed Sana ul Haq Fazli
 
-1: Analysis and Task Management of the whole Task	
-25 mins	
-Did the Analysis of the whole task and divide my task into three phase which includes Designing of the form, JQuery Prgramming (Client & Server Side), and Browser Compatibilitiy Check 
+1: Analysis and Task Management of the whole Task		
+25 mins		
+Did the Analysis of the whole task and divide my task into three phase which includes Designing of the form, JQuery Prgramming (Client & Server Side), and Browser Compatibilitiy Check 	
 
-2: "Style up a simple form submission page. This design is available as a PNG image file and there are
-separate image assets which you can use."	
+2: "Style up a simple form submission page. This design is available as a PNG image file and there are separate image assets which you can use."	
 30 mins	
 Designing of the form using BootStrap 4.1 & HTML 5
 			
