@@ -1,6 +1,21 @@
 # Megatest
 Mega Ltd. Test for Syed Sana ul Haq Fazli
 
+<h3>Installation:</h3>
+Download the whole Module. and Unzip it and name it as <strong>megatest</strong>. save this folder in the Server folder like /www/html/.now run the system on your browser like: 
+<p>http://localhost/megatest/index.html</p>
+
+<h3>User Manual</h3>
+There are four Buttons named:
+<ul>
+	<li>Add Files</li>
+	<li>Start Upload</li>
+	<li>Cancel Upload</li>
+	<li>Delete</li>
+</ul>
+<p>Click on the Add Files Button. Select the file from the list. The File must be Minimum 1MB and Maximum 40MB in size. All the file will be added to the right side of the tool named as <strong>Progress</strong>. Click on any file or click the multiple checkbox to select al l the files to upload by clicking the the <strong>Start Upload</strong> Button. Same thng applied with the Cancel button and the delete button.</p>
+	
+<h3>Task Management Documentation</h3>
 1: Analysis and Task Management of the whole Task. 
 <br />Completed in 25 mins. 
 <br />Did the Analysis of the whole task and divide my task into three phase which includes Designing of the form, JQuery Prgramming (Client & Server Side), and Browser Compatibilitiy Check 	
