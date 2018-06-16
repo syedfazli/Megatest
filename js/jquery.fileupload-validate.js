@@ -44,7 +44,7 @@
             acceptFileTypes: '@',
             maxFileSize: '20000000', 
             minFileSize: '100000',
-            maxNumberOfFiles: '2',
+            maxNumberOfFiles: '@',
             disabled: '@disableValidation'
         }
     );
