@@ -10,11 +10,24 @@
  * https://github.com/blueimp/jQuery-File-Upload
  */
 
-body {
+
+ @font-face {
+  font-family: SourceSansPro;
+  src: url("SourceSansPro/SourceSansPro-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: SourceSansPro;
+  font-weight: bold;
+  src: url("SourceSansPro/SourceSansPro-Bold.otf") format("opentype");
+}
+
+
+ body {
   padding-top: 60px;
+  background-color: black;
 }
 
 .legend{
   text-align: center;
 }
-
