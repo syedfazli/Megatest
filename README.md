@@ -14,31 +14,31 @@ implemented client side e.g. with the HTML5 FileReader API.".
 <br />Completed in 2 hours.
 <br />
 "Used the jQuery Plugins: 
-<!-- The basic File Upload plugin -->
+<br /> The basic File Upload plugin 
 jquery.fileupload.js
-<!-- The File Upload processing plugin -->
+<br />The File Upload processing plugin
 jquery.fileupload-process.js
-<!-- The File Upload image preview & resize plugin -->
+<br />The File Upload image preview & resize plugin 
 jquery.fileupload-image.js
-<!-- The File Upload audio preview plugin -->
+<br /> The File Upload audio preview plugin 
 jquery.fileupload-audio.js
-<!-- The File Upload video preview plugin -->
+<br />The File Upload video preview plugin
 jquery.fileupload-video.js
-<!-- The File Upload validation plugin -->
+<br />The File Upload validation plugin 
 jquery.fileupload-validate.js
-<!-- The File Upload user interface plugin -->
+<br />The File Upload user interface plugin
 jquery.fileupload-ui.js"
 			
 4: The file uploader should show the progress of each file upload and a final confirmation when the file. 
-<br />Completed in 15 mins.	<br />
-<!-- The File Upload processing plugin --> 
-jquery.fileupload-process.js
+<br />Completed in 15 mins.	
+<br />The File Upload processing plugin
+<br />jquery.fileupload-process.js
 			
 5: "The server side should contain a simple API REST interface allowing you to upload the file to a
 directory on the Web server and return a success response and potentially a status message when
 completed."	
 <br />30 mins	
-API Upload the files to server/php/files folder
+<br />API Upload the files to server/php/files folder
 			
 			
 6: Failed uploads should be handled gracefully and an appropriate message displayed on the UI.	
