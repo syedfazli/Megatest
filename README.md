@@ -1,6 +1,6 @@
 # Megatest
 <ul>
-	<li>MEGA Web Development Test</li>
+	<li>MEGA Senior Web Developer Job Test</li>
 	<li>Presented By: Syed Sana ul Haq Fazli<br />
 	http://www.syedfazli.com</li>
  	<li>Source Help From:<br />
@@ -13,7 +13,7 @@
 	<li>Apache / Tomcat</li>
 	<li>Bootstap 4.1 (incuded)</li>
 	<li>jQuery 3.2.1 and above (included)</li>
-	<li>JQuery Basic File Upload Plugin</li>
+	<li>JQuery Basic File Upload Plugins (included)</li>
 </ul>
 
 <h3>Installation:</h3>
