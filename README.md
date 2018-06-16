@@ -1,5 +1,11 @@
 # Megatest
-Mega Ltd. Test for Syed Sana ul Haq Fazli
+<ul>
+	<li>MEGA web Development Test</li>
+	<li>Presented By: Syed Sana ul Haq Fazli<br />
+	http://www.syedfazli.com</li>
+ 	<li>Source Help From:<br />
+	https://github.com/blueimp/jQuery-File-Upload</li>
+</ul>
 
 <h3>Installation:</h3>
 Download the whole Module. and Unzip it and name it as <strong>megatest</strong>. save this folder in the Server folder like /www/html/.now run the system on your browser like: 
@@ -64,10 +70,4 @@ completed."
 <br />Completed in 5 mins	
 
 
-<ul>
-	<li>MEGA web Development Test</li>
-	<li>Presented By: Syed Sana ul Haq Fazli<br />
-	http://www.syedfazli.com</li>
- 	<li>Source Help From:<br />
-	https://github.com/blueimp/jQuery-File-Upload</li>
-</ul>
+
