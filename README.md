@@ -1,10 +1,19 @@
 # Megatest
 <ul>
-	<li>MEGA web Development Test</li>
+	<li>MEGA Web Development Test</li>
 	<li>Presented By: Syed Sana ul Haq Fazli<br />
 	http://www.syedfazli.com</li>
  	<li>Source Help From:<br />
 	https://github.com/blueimp/jQuery-File-Upload</li>
+</ul>
+
+<h3>Requirements:</h3>
+<ul>
+	<li>PHP 5.5 and above</li>
+	<li>Apache / Tomcat</li>
+	<li>Bootstap 4.1 (incuded)</li>
+	<li>jQuery 3.2.1 and above (included)</li>
+	<li>JQuery Basic File Upload Plugin</li>
 </ul>
 
 <h3>Installation:</h3>
