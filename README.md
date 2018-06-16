@@ -66,10 +66,8 @@ completed."
 
 <ul>
 	<li>MEGA web Development Test</li>
- 
 	<li>Presented By: Syed Sana ul Haq Fazli<br />
 	http://www.syedfazli.com</li>
- 
-	<li>Source Help From:<br />
+ 	<li>Source Help From:<br />
 	https://github.com/blueimp/jQuery-File-Upload</li>
 </ul>
