@@ -62,3 +62,14 @@ completed."
 
 7:Your work should be compatible with the current latest versions of Chrome and Firefox.	
 <br />Completed in 5 mins	
+
+
+<ul>
+	<li>MEGA web Development Test</li>
+ 
+	<li>Presented By: Syed Sana ul Haq Fazli<br />
+	http://www.syedfazli.com</li>
+ 
+	<li>Source Help From:<br />
+	https://github.com/blueimp/jQuery-File-Upload</li>
+</ul>
