@@ -19,7 +19,7 @@ There are four Buttons named:
 	<li>Cancel Upload</li>
 	<li>Delete</li>
 </ul>
-<p>Click on the Add Files Button. Select the file from the list. The File must be Minimum 1MB and Maximum 40MB in size. All the file will be added to the right side of the tool named as <strong>Progress</strong>. Click on any file or click the multiple checkbox to select al l the files to upload by clicking the the <strong>Start Upload</strong> Button. Same thng applied with the Cancel button and the delete button.</p>
+<p>Click on the Add Files Button. Select the file from the list. The File must be Minimum 1MB and Maximum 40MB in size. All the file will be added to the right side of the tool named as <strong>Progress</strong>. Click on any file, or click the multiple checkbox to select all the files. to upload click the <strong>Start Upload</strong> Button. Same steps applied with the Cancel button and the delete button.</p>
 	
 <h3>Task Management Documentation</h3>
 1: Analysis and Task Management of the whole Task. 
